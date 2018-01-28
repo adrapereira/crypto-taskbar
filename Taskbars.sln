@@ -1,0 +1,50 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandObjectLib", "BandObjectLib\BandObjectLib.csproj", "{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoTaskbarTests", "CryptoTaskbarTests\CryptoTaskbarTests.csproj", "{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoTaskbar", "CryptoTaskbar\CryptoTaskbar.csproj", "{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}.Debug|x86.Build.0 = Debug|Any CPU
+		{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}.Release|x86.ActiveCfg = Release|Any CPU
+		{BDB3B670-A17B-483E-954C-52FC2B6FF9D3}.Release|x86.Build.0 = Release|Any CPU
+		{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}.Debug|x86.Build.0 = Debug|Any CPU
+		{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}.Release|x86.ActiveCfg = Release|Any CPU
+		{A7C8FC7B-F372-415F-ACB0-A7AD13B743D0}.Release|x86.Build.0 = Release|Any CPU
+		{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}.Debug|x86.Build.0 = Debug|Any CPU
+		{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}.Release|x86.ActiveCfg = Release|Any CPU
+		{ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA70A733-1B2E-46BE-B020-97FF4142ADA8}
+	EndGlobalSection
+EndGlobal
